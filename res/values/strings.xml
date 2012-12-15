@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Sample-rss</string>
+    <string name="title_feeditem_detail">Article Details</string>
+    <string name="title_feeditem_list">Sample RSS </string>
+
+</resources>
